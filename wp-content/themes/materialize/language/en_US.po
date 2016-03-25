@@ -1,0 +1,1284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Materialize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Feb 17 2016 09:32:04 GMT+0200 (EET)\n"
+"PO-Revision-Date: 2016-03-21 19:34-0300\n"
+"Last-Translator: Harvey Specter <alexandru.popescu86@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: /404.php:39
+#, php-format
+msgid "Error %s"
+msgstr "Erro %s"
+
+#: /404.php:63
+msgid "Recurso não encontrado"
+msgstr "Recurso não encontrado"
+
+#: /404.php:64 /front-page.php:148
+msgid ""
+"Infelizmente esta pagina, post ou recurso não existe ou não foi encontrado :("
+msgstr "Infelizmente esta pagina, post ou recurso não existe ou não foi encontrado :("
+
+#: /archive.php:49 /archive.php:62
+#, php-format
+msgid "Yearly archives - %s"
+msgstr "Arquivos anuais - %s"
+
+#: /archive.php:50
+#, php-format
+msgid "Monthly archives - %s"
+msgstr "Arquivos mensais - %s"
+
+#: /archive.php:53
+msgid "Daily Archives"
+msgstr "Arquivos diários"
+
+#: /archive.php:65
+msgid "Monthly Archives"
+msgstr "arquivos Mensais"
+
+#: /archive.php:74
+msgid "Yearly Archives"
+msgstr "Arquivos anuais"
+
+#: /archive.php:80
+msgid "Archives"
+msgstr "arquivo"
+
+#: /author.php:32
+msgid "Author"
+msgstr "Autor"
+
+#: /category.php:43
+msgid "Category Archives"
+msgstr "Arquivo da Categoria"
+
+#: /comments.php:31
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Este post é protegido por senha. Digite a senha para ver quaisquer comentários."
+
+#: /comments.php:43
+#, php-format
+msgctxt "Title before comment(s) list"
+msgid "Comment ( %s )"
+msgid_plural "Comments ( %s )"
+msgstr[0] "Comentarios ( %s )"
+msgstr[1] "Comentarios ( %s )"
+
+#: /comments.php:60 /templates/pagination.php:38
+#, php-format
+msgid "%s Prev"
+msgstr "%s Anterior"
+
+#: /comments.php:61 /templates/pagination.php:39
+#, php-format
+msgid "Next %s"
+msgstr "Próximo %s"
+
+#: /comments.php:83 /comments.php:100
+msgid "Nickname ( required )"
+msgstr "Apelido (obrigatório)"
+
+#: /comments.php:88 /comments.php:104
+msgid "E-mail ( required )"
+msgstr "E-mail (obrigatório)"
+
+#: /comments.php:93 /comments.php:108
+msgid "Website"
+msgstr "Site"
+
+#: /comments.php:114
+msgid "THE COMMENT BODY"
+msgstr "CORPO DO COMENTÁRIO"
+
+#: /comments.php:121
+msgid "You may use these HTML tags and attributes"
+msgstr "Você pode usar estas tags HTML e atributos"
+
+#: /comments.php:130
+msgid "Leave a reply"
+msgstr "Deixe uma resposta"
+
+#: /comments.php:132 /comments.php:133 /comments.php:136
+msgid "Comment"
+msgstr "Comente"
+
+#: /comments.php:132
+msgid "Your email address will not be published."
+msgstr "Seu endereço de email não será publicado."
+
+#: /comments.php:133
+msgid "Logged in as"
+msgstr "logado como"
+
+#: /comments.php:133
+msgid "Log out of this account"
+msgstr "sair desta conta"
+
+#: /comments.php:133
+msgid "Log out?"
+msgstr "Sair?"
+
+#: /footer.php:240
+#, php-format
+msgid "Copyright &copy; %s %s. Powered by %s."
+msgstr "Copyright & copy; %s %s . Alimentado por %s ."
+
+#: /footer.php:259
+#, php-format
+msgid "Designed by %s."
+msgstr "Desenvolvido por %s ."
+
+#: /front-page.php:132 /page.php:122 /single.php:139
+msgid "Pages"
+msgstr "Páginas"
+
+#: /front-page.php:147
+msgid "Page not found"
+msgstr "página não encontrada"
+
+#: /functions.php:83 /cfg/customize.php:822
+msgid "Default"
+msgstr "Padrão"
+
+#: /index.php:45 /cfg/customize.php:711
+msgid "Blog"
+msgstr "Blog"
+
+#: /search.php:40
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Resultados da pesquisa para \ " %s \""
+
+#: /searchform.php:18
+msgid "type here..."
+msgstr "digite aqui..."
+
+#: /sidebar-footer-first.php:29
+msgid "Materialize"
+msgstr "Materializar"
+
+#: /sidebar-footer-first.php:31
+#, php-format
+msgid ""
+"It is a clean white WordPress theme %s with creative material design and %s "
+"responsive layout."
+msgstr "É um branco limpo WordPress tema %s com design material criativo e %s de layout responsivo."
+
+#: /sidebar-footer-fourth.php:29 /sidebar-special-page.php:40
+msgid "Working Hours"
+msgstr "Horas de trabalho"
+
+#: /sidebar-footer-fourth.php:31 /sidebar-special-page.php:43
+msgid "Monday to Friday"
+msgstr "segunda a sexta"
+
+#: /sidebar-footer-second.php:29 /sidebar-special-page.php:49
+msgid "Address"
+msgstr "Endereço"
+
+#: /sidebar-footer-second.php:30
+#, php-format
+msgid "1 Infinite Loop %s Cupertino, CA 95014 %s United States"
+msgstr "1 Infinite Loop %s Cupertino, CA 95014 %s Estados Unidos"
+
+#: /sidebar-footer-third.php:29
+msgid "Contact"
+msgstr "Contato"
+
+#: /sidebar-footer-third.php:31 /sidebar-special-page.php:33
+#, php-format
+msgid "facebook: %s"
+msgstr "facebook: %s"
+
+#: /sidebar-footer-third.php:32 /sidebar-special-page.php:34
+#, php-format
+msgid "direct: %s"
+msgstr "direta: %s"
+
+#: /sidebar-footer-third.php:33
+#, php-format
+msgid "e-mail: %s"
+msgstr "e-mail: %s"
+
+#: /sidebar-page.php:36
+msgid "Default Content"
+msgstr "conteúdo padrão"
+
+#: /sidebar-page.php:38
+msgid ""
+"You can hide all default content from sidebars if you go to Admin Dashboard "
+"&rsaquo; Appearance &rsaquo; Customize &rsaquo; Additional and disable option "
+"\"Display default content\"."
+msgstr "Você pode ocultar todo o conteúdo padrão de barras laterais se você ir para Admin Dashboard & rsaquo; Aparência & rsaquo; Personalize & rsaquo; opção adicional e desativar \ "Mostrar o conteúdo default \"."
+
+#: /sidebar-post.php:48 /cfg/widgets/mythemes.post_meta.class.php:48
+msgid "Edit"
+msgstr "Editar"
+
+#: /sidebar-post.php:51 /cfg/widgets/mythemes.post_meta.class.php:51
+#: /templates/meta/top.php:32
+#, php-format
+msgid "Writed by %s"
+msgstr "Escrito por %s"
+
+#: /sidebar-post.php:59 /cfg/widgets/mythemes.post_meta.class.php:58
+#, php-format
+msgctxt "Number of comment(s) from widget \"myThemes: Meta Details\""
+msgid "%s Comment"
+msgstr "%s Comentário"
+
+#: /sidebar-post.php:73 /cfg/widgets/mythemes.post_meta.class.php:71
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s view"
+msgstr[1] "%s view"
+
+#: /sidebar-post.php:83
+msgid "Article Categories"
+msgstr "Categorias de Artigos"
+
+#: /sidebar-post.php:97
+msgid "Article Tags"
+msgstr "Tag do artigo"
+
+#: /sidebar-special-page.php:31
+msgid "Contact Us"
+msgstr "Nos contate"
+
+#: /sidebar.php:41
+msgid "Tags"
+msgstr "etiquetas"
+
+#: /sidebar.php:66
+msgid "Categories"
+msgstr "Categorias"
+
+#: /sidebar.php:77
+#, php-format
+msgid "View all posts filed under - %s"
+msgstr "Ver todos os posts arquivados em - %s"
+
+#: /tag.php:39
+msgid "Tag Archives"
+msgstr "Arquivo da tag"
+
+#: /cfg/cfgs.php:7
+msgid ""
+"myThem.es Marketplace provides WordPress themes with the best quality and the "
+"smallest prices."
+msgstr "myThem.es mercado fornece temas WordPress com a melhor qualidade e os menores preços."
+
+#: /cfg/cfgs.php:14
+msgid "Materialize - Best WordPress Theme based on Material Design."
+msgstr "Materializar - Melhor Tema WordPress baseado em material design."
+
+#: /cfg/cfgs.php:28
+msgid "Welcome Message !"
+msgstr "Mensagem de boas-vindas !"
+
+#: /cfg/cfgs.php:31
+msgid ""
+"Thank you for choosing myThem.es and use one of our WordPress Themes your choice "
+"is greatly appreciated!"
+msgstr "Obrigado por myThem.es escolher e usar um dos nossos Temas WordPress sua escolha é muito apreciada!"
+
+#: /cfg/cfgs.php:33
+msgid "If you have any questions ask!"
+msgstr "Caso tenha alguma dúvida, pergunte!"
+
+#: /cfg/cfgs.php:35
+msgid "And please help us to increase the theme quality ( report bugs )."
+msgstr "E, por favor nos ajude para aumentar a qualidade tema (relatório bugs)."
+
+#: /cfg/cfgs.php:37
+msgid "Also please help us to increase the theme rank!"
+msgstr "Também por favor, nos ajude a aumentar a classificação tema!"
+
+#: /cfg/cfgs.php:40
+msgid "Default content from Sidebars: Footer, Blog, Single, Special Page"
+msgstr "conteúdo padrão de Barras laterais: Rodapé, Blog, único, página especial"
+
+#: /cfg/cfgs.php:43
+msgid "GENERAL ABOUT DEFAULT CONTENT"
+msgstr "Sobre a General conteúdo padrão"
+
+#: /cfg/cfgs.php:45
+msgid "The default content exists only in sidebars !"
+msgstr "O conteúdo padrão existe apenas em barras laterais!"
+
+#: /cfg/cfgs.php:46
+msgid "The default content is hardcoded in theme files. But you can:"
+msgstr "O conteúdo padrão é codificado em arquivos temáticos. Mas você pode:"
+
+#: /cfg/cfgs.php:47
+msgid "1. Disable all default content and fill with your content."
+msgstr "1. Desative todos os conteúdos padrão e preencher com o seu conteúdo."
+
+#: /cfg/cfgs.php:48
+msgid "2. Replace only one section or more sections with your content."
+msgstr "2. Substitua apenas uma seção ou mais seções com o seu conteúdo."
+
+#: /cfg/cfgs.php:51
+msgid ""
+"You can hide all default content if you go to <strong>Admin Dashboard &rsaquo; "
+"Appearance &rsaquo; Customize &rsaquo; Additional</strong> and disable option "
+"\"Display default content\"."
+msgstr "Você pode ocultar todo o conteúdo padrão, se você vai para <strong> Admin Dashboard & rsaquo; Aparência & rsaquo; Personalize & rsaquo; Adicionais </ strong> e desativar a opção \ "Mostrar o conteúdo default \"."
+
+#: /cfg/cfgs.php:54
+msgid ""
+"<strong>IMPORTANT</strong>: if the option \"Display default content\" is enabled "
+"and the Header Sidebars is empty then will be displayed the default content "
+"( hardcoded ) from this sidebar."
+msgstr "<Strong> IMPORTANTE </ strong>: se a opção \ "Mostrar o conteúdo default \" está habilitada e as barras laterais de cabeçalho está vazio, em seguida, será exibido o conteúdo padrão (codificado) a partir desta barra lateral."
+
+#: /cfg/cfgs.php:55
+msgid ""
+"So, just is need to get and put a text widget and fill the Text widget with you "
+"Title and with your Content."
+msgstr "Assim, apenas é preciso para obter e colocar uma janela de texto e preencher o widget de texto com você Título e com o seu conteúdo."
+
+#: /cfg/cfgs.php:56
+msgid ""
+"<strong>IMPORTANT</strong>: The widgets are placed in the left and the sidebars "
+"are placed in the right ( <strong>Appearance &rsaquo; Widgets</strong> )."
+msgstr "<Strong> IMPORTANTE </ strong>: Os widgets são colocados na esquerda e as barras laterais são colocados na direita (<strong> Aparência & rsaquo; Widgets </ strong>)."
+
+#: /cfg/cfgs.php:60
+msgid "FOOTER"
+msgstr "RODAPÉ"
+
+#: /cfg/cfgs.php:62
+msgid ""
+"In the footer before the copyright section there are 3 components that are "
+"entitle:"
+msgstr "No rodapé antes da seção copyright existem 3 componentes que são intitulado:"
+
+#: /cfg/cfgs.php:66
+msgid "1. Materialize"
+msgstr "1. Materialize"
+
+#: /cfg/cfgs.php:67
+msgid "2. ADDRESS"
+msgstr "2. ENDEREÇO"
+
+#: /cfg/cfgs.php:68
+msgid "3. CONTACT"
+msgstr "3. Entre em contato"
+
+#: /cfg/cfgs.php:69
+msgid "4. WORKING HOURS"
+msgstr "4. AS HORAS DE TRABALHO"
+
+#: /cfg/cfgs.php:73
+msgid ""
+"Here we have three sidebars with default content. These are \"Header Front Page "
+"Sidebars\". If you go to Admin Dashboard &rsaquo; Appearance &rsaquo; Widgets you "
+"can see sidebars:"
+msgstr "Aqui temos três barras laterais com conteúdo padrão. Estes são \ "Cabeçalho Front Page Barras laterais \". Se você vai para Admin Dashboard & rsaquo; Aparência & rsaquo; Widgets que você pode ver barras laterais:"
+
+#: /cfg/cfgs.php:77
+msgid "1. Footer - First Sidebar ( is used the sample Text widget )"
+msgstr "1. Rodapé - Primeira Sidebar (é utilizado o widget de exemplo texto)"
+
+#: /cfg/cfgs.php:78
+msgid "2. Footer - Second Sidebar ( is used the sample Text widget )"
+msgstr "2. rodapé - Segunda Sidebar (é utilizado o widget de exemplo texto)"
+
+#: /cfg/cfgs.php:79
+msgid "3. Footer - Third Sidebar ( is used the sample Text widget )"
+msgstr "3. Rodapé - Terceiro Sidebar (é utilizado o widget de exemplo texto)"
+
+#: /cfg/cfgs.php:80
+msgid "4. Footer - Fourth Sidebar ( is used the sample Text widget )"
+msgstr "4. rodapé - Quarta Sidebar (é utilizado o widget de exemplo texto)"
+
+#: /cfg/cfgs.php:84
+msgid "BLOG ( MAIN SIDEBAR )"
+msgstr "BLOG (barra lateral principal)"
+
+#: /cfg/cfgs.php:86
+msgid ""
+"By default is used content from next widgets: \"Search\", \"Tags Cloud\" and "
+"\"Categories\"."
+msgstr "Por padrão é usado o conteúdo de próximos widgets: \ "Procurar \", \ "Nuvem de Tags \" e \ "Categorias \"."
+
+#: /cfg/cfgs.php:90
+msgid "SINGLE POST ( SINGLE SIDEBAR )"
+msgstr "POST ÚNICO (SIDEBAR SINGLE)"
+
+#: /cfg/cfgs.php:92
+msgid ""
+"By default is used content from next widgets: \"Post Meta [myThem.es]\", \"Post "
+"Categories [myThem.es]\" and \"Post Tags [myThem.es]\"."
+msgstr "Por padrão é usado o conteúdo de próximos widgets: \ "Post Meta [myThem.es] \", \ "post Categorias [myThem.es] \" e \ "Etiquetas Resposta [myThem.es] \"."
+
+#: /cfg/cfgs.php:96
+msgid "REPLACE CONTENT VS DISABLE DEFAULT CONTENT"
+msgstr "SUBSTITUIR conteúdo padrão CONTEÚDO VS DISABLE"
+
+#: /cfg/cfgs.php:98
+msgid ""
+"If you disable the default content then it will disable all default content from "
+"your web site ( sidebars with default content listed above ):"
+msgstr "Se você desativar o conteúdo padrão, então ele irá desativar todo o conteúdo padrão a partir do seu web site (barras laterais com conteúdo padrão listadas acima):"
+
+#: /cfg/cfgs.php:102
+msgid "- Footer Sidebars"
+msgstr "- Barras laterais Rodapé"
+
+#: /cfg/cfgs.php:103
+msgid "- Main Blog Sidebar"
+msgstr "- Barra lateral principal Blog"
+
+#: /cfg/cfgs.php:104
+msgid "- Single Sidebar"
+msgstr "- Sidebar Individual"
+
+#: /cfg/cfgs.php:105
+msgid "- ..."
+msgstr "- ..."
+
+#: /cfg/cfgs.php:109
+msgid ""
+"Also you can replace the default content with your content. This will allow you "
+"to make one or more changes. You will not need to replace all default content."
+msgstr "Além disso, você pode substituir o conteúdo padrão com o seu conteúdo. Isto irá permitir que você faça uma ou mais alterações. Você não terá de substituir todo o conteúdo padrão."
+
+#: /cfg/cfgs.php:111
+msgid ""
+"To replace the default content you need to add a widget with your content in the "
+"sidebar with default content ( listed above). The default content will "
+"automatically change with your content (only for this sidebar)."
+msgstr "Para substituir o conteúdo padrão que você precisa adicionar um widget com o seu conteúdo na barra lateral com o conteúdo padrão (listado acima). O conteúdo padrão mudará automaticamente com o seu conteúdo (somente para este quadro ao lado)."
+
+#: /cfg/cfgs.php:115
+msgid "Custom CSS and Customizations"
+msgstr "CSS personalizado e personalizações"
+
+#: /cfg/cfgs.php:118
+msgid ""
+"This theme comes with special option. This option allow add custom css to "
+"customize your web site to your needs."
+msgstr "Este tema vem com opção especial. Esta opção permite adicionar css personalizado para personalizar o seu web site para suas necessidades."
+
+#: /cfg/cfgs.php:120
+msgid "To use it go to Admin Dashboard"
+msgstr "Para usá-lo ir para o painel de administração"
+
+#: /cfg/cfgs.php:122
+msgid "Appearance &rsaquo; Customize &rsaquo; Others - option \"Custom css\"."
+msgstr "Aparência & rsaquo; Personalize & rsaquo; Outros - opção \ "Custom css \"."
+
+#: /cfg/cfgs.php:124
+msgid "You can use it for multiple case, just is need to add you css in this field."
+msgstr "Você pode usá-lo para casos múltiplos, apenas é necessário adicionar-lhe css neste campo."
+
+#: /cfg/cfgs.php:127
+msgid "Customize the Theme"
+msgstr "Personalizar o tema"
+
+#: /cfg/cfgs.php:130
+msgid ""
+"This theme comes with a set of options what allow you to customize content, "
+"header, layouts, social items and others."
+msgstr "Este tema vem com um conjunto de opções que lhe permitem personalizar o conteúdo, cabeçalho, layouts, itens sociais e outros."
+
+#: /cfg/cfgs.php:132
+msgid "You can see theme options if you go to Admin Dashboard"
+msgstr "Você pode ver opções de tema, se você ir ao Painel de Admin"
+
+#: /cfg/cfgs.php:134
+msgid "Appearance &rsaquo; Customize"
+msgstr "Aparência & rsaquo; Customizar"
+
+#: /cfg/cfgs.php:136
+msgid "Here you can see:"
+msgstr "Aqui você pode ver:"
+
+#: /cfg/cfgs.php:140
+msgid "01. Site Identity"
+msgstr "01. Sítio Identity"
+
+#: /cfg/cfgs.php:141
+msgid "02. Colors"
+msgstr "02. Colors"
+
+#: /cfg/cfgs.php:142
+msgid "03. Background Image"
+msgstr "03. Imagem de Fundo"
+
+#: /cfg/cfgs.php:143
+msgid "04. Header Image"
+msgstr "04. Header Image"
+
+#: /cfg/cfgs.php:144
+msgid "05. Header Elements"
+msgstr "05. Elementos de cabeçalho"
+
+#: /cfg/cfgs.php:145
+msgid "06. Breadcrumbs"
+msgstr "06. Breadcrumbs"
+
+#: /cfg/cfgs.php:146
+msgid "07. Additional"
+msgstr "07. adicionais"
+
+#: /cfg/cfgs.php:147
+msgid "08. Layout"
+msgstr "08. Disposição"
+
+#: /cfg/cfgs.php:148
+msgid "09. Social"
+msgstr "09. social"
+
+#: /cfg/cfgs.php:149
+msgid "10. Others"
+msgstr "10. Outros"
+
+#: /cfg/cfgs.php:150
+msgid "11. Menu"
+msgstr "11. menu"
+
+#: /cfg/cfgs.php:151
+msgid "12. Widgets"
+msgstr "Widgets 12."
+
+#: /cfg/cfgs.php:152
+msgid "13. Static Front Page"
+msgstr "13. estático Front Page"
+
+#: /cfg/cfgs.php:156
+msgid "All you have to do is play with them and view live changes."
+msgstr "Tudo que você tem a fazer é brincar com eles e ver as alterações ao vivo."
+
+#: /cfg/cfgs.php:158
+msgid "Try and you will discover how easy it is to customize your own style."
+msgstr "Experimente e você vai descobrir como é fácil de personalizar o seu próprio estilo."
+
+#: /cfg/customize.php:17
+msgid "Site Identity"
+msgstr "Identidade do site"
+
+#: /cfg/customize.php:32
+msgid "Preview Logo"
+msgstr "Logo pré-visualização"
+
+#: /cfg/customize.php:46
+msgid "Logo Margin Top"
+msgstr "Logo Margem superior"
+
+#: /cfg/customize.php:66
+msgid "Logo Marign Bottom"
+msgstr "Logo Marign inferior"
+
+#: /cfg/customize.php:85
+msgid "Colors"
+msgstr "cores"
+
+#: /cfg/customize.php:99
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: /cfg/customize.php:109
+msgid "Header Image"
+msgstr "Imagem de cabeçalho"
+
+#: /cfg/customize.php:119
+msgid "Header Elements"
+msgstr "Header Elements"
+
+#: /cfg/customize.php:130
+msgid "General"
+msgstr "Geral"
+
+#: /cfg/customize.php:144
+msgid "Display Header on Front Page"
+msgstr "Exibir cabeçalho na primeira página"
+
+#: /cfg/customize.php:158
+msgid "Display Header on Blog Page"
+msgstr "Exibir cabeçalho na página de blog"
+
+#: /cfg/customize.php:172
+msgid "Display Header on Templates"
+msgstr "Exibir cabeçalho em Modelos"
+
+#: /cfg/customize.php:173
+msgid ""
+"enabale / disable header on: Archives, Categories, Tags, Author, 404 and Search "
+"Results."
+msgstr "enabale / desativar o cabeçalho em: Arquivos, Categorias, Tags, Autor, 404 e resultados de pesquisa."
+
+#: /cfg/customize.php:187
+msgid "Display Header on Single Post"
+msgstr "Exibir o cabeçalho no Single Post"
+
+#: /cfg/customize.php:201
+msgid "Display Header on Single Page"
+msgstr "Exibir cabeçalho na Página Única"
+
+#: /cfg/customize.php:215
+msgid "Header height"
+msgstr "altura do cabeçalho"
+
+#: /cfg/customize.php:237 /cfg/customize.php:434 /cfg/customize.php:556
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: /cfg/customize.php:254
+msgid "Mask Color"
+msgstr "Máscara colorida"
+
+#: /cfg/customize.php:268
+msgid "Mask Transparency"
+msgstr "Transparência máscara"
+
+#: /cfg/customize.php:269
+msgid ""
+"by default the mask is a dark transparent foil over the header background image."
+msgstr "por padrão, a máscara é uma folha transparente escura sobre a imagem de fundo do cabeçalho."
+
+#: /cfg/customize.php:285
+msgid "Content"
+msgstr "Conteúdo"
+
+#: /cfg/customize.php:299
+msgid "Show Headline"
+msgstr "Mostrar Headline"
+
+#: /cfg/customize.php:307
+msgid "The best WordPress Theme based on Material Design"
+msgstr "A melhor Tema WordPress baseado no desenho de materiais"
+
+#: /cfg/customize.php:313
+msgid "Headline Text"
+msgstr "headline Texto"
+
+#: /cfg/customize.php:330
+msgid "Headline Color"
+msgstr "headline a cores"
+
+#: /cfg/customize.php:344
+msgid "Show Description"
+msgstr "Mostre a descrição"
+
+#: /cfg/customize.php:352
+msgid "free WordPress theme developed by myThem.es"
+msgstr "tema livre WordPress desenvolvido por myThem.es"
+
+#: /cfg/customize.php:358
+msgid "Header Description"
+msgstr "cabeçalho Descrição"
+
+#: /cfg/customize.php:375
+msgid "Description Color"
+msgstr "Descrição Cor"
+
+#: /cfg/customize.php:386 /cfg/customize.php:475 /templates/header.php:31
+msgid "First Button"
+msgstr "primeiro Botão"
+
+#: /cfg/customize.php:400
+msgid "Show Button"
+msgstr "Mostrar Botão"
+
+#: /cfg/customize.php:417 /cfg/customize.php:539
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: /cfg/customize.php:451 /cfg/customize.php:573
+msgid "Background Color ( over )"
+msgstr "Cor de Fundo (sobre)"
+
+#: /cfg/customize.php:452 /cfg/customize.php:574
+msgid "When the mouse is over the button."
+msgstr "Quando o mouse está sobre o botão."
+
+#: /cfg/customize.php:466 /cfg/customize.php:588
+msgid "URL"
+msgstr "URL"
+
+#: /cfg/customize.php:467
+msgid "Link for first button"
+msgstr "Link for primeiro botão"
+
+#: /cfg/customize.php:481 /cfg/customize.php:603
+msgid "Text"
+msgstr "Texto"
+
+#: /cfg/customize.php:482
+msgid "Text for first button"
+msgstr "Texto para o primeiro botão"
+
+#: /cfg/customize.php:490 /templates/header.php:32
+msgid "first button link description..."
+msgstr "primeiro botão descrição link ..."
+
+#: /cfg/customize.php:496 /cfg/customize.php:618
+msgid "Description"
+msgstr "Descrição"
+
+#: /cfg/customize.php:497
+msgid "link description for first button"
+msgstr "descrição do link para o primeiro botão"
+
+#: /cfg/customize.php:508 /cfg/customize.php:597 /templates/header.php:36
+msgid "Second Button"
+msgstr "segundo Botão"
+
+#: /cfg/customize.php:522
+msgid "Display second button"
+msgstr "Mostrar segundo botão"
+
+#: /cfg/customize.php:589
+msgid "Link for second button"
+msgstr "Link for segundo botão"
+
+#: /cfg/customize.php:604
+msgid "Text for second button"
+msgstr "Texto para segundo botão"
+
+#: /cfg/customize.php:612 /templates/header.php:37
+msgid "second button link description..."
+msgstr "segundo botão de inscrição link ..."
+
+#: /cfg/customize.php:619
+msgid "link description for second button"
+msgstr "descrição do link para o segundo botão"
+
+#: /cfg/customize.php:631
+msgid "Breadcrumbs"
+msgstr "farinha de rosca"
+
+#: /cfg/customize.php:644
+msgid "Show Breadcrumbs"
+msgstr "Mostrar Breadcrumbs"
+
+#: /cfg/customize.php:652 /lib/mythemes.breadcrumbs.class.php:10
+msgid "Home"
+msgstr "Casa"
+
+#: /cfg/customize.php:658
+msgid "\"Home\" link text"
+msgstr "\ "Home \" texto do link"
+
+#: /cfg/customize.php:659
+msgid "breadcrumbs \"Home\" link text."
+msgstr "pão ralado \ "Home \" text link."
+
+#: /cfg/customize.php:667 /lib/mythemes.breadcrumbs.class.php:9
+msgid "go to home"
+msgstr "ir para casa"
+
+#: /cfg/customize.php:673
+msgid "\"Home\" link description"
+msgstr "\ "Home \" descrição do link"
+
+#: /cfg/customize.php:674
+msgid "breadcrumbs \"Home\" link description."
+msgstr "pão ralado \ "Home \" Descrição do link."
+
+#: /cfg/customize.php:688
+msgid "Space"
+msgstr "Espaço"
+
+#: /cfg/customize.php:689
+msgid "inner above and below space allow you to change breadcrumbs height."
+msgstr "interior e abaixo do espaço permitem alterar pão ralado altura."
+
+#: /cfg/customize.php:704
+msgid "Additional"
+msgstr "Adicional"
+
+#: /cfg/customize.php:717
+msgid "Title for Blog Page"
+msgstr "Título de página de blog"
+
+#: /cfg/customize.php:731
+msgid "Show default content"
+msgstr "conteúdo padrão Mostrar"
+
+#: /cfg/customize.php:732
+msgid "enable / disable default content from sidebars."
+msgstr "ativar / desativar o conteúdo padrão de barras laterais."
+
+#: /cfg/customize.php:746
+msgid "Enable myThem.es Gallery Effects"
+msgstr "Ativar Efeitos myThem.es Galeria"
+
+#: /cfg/customize.php:747
+msgid "you can disable this option to enable jetpack gallery"
+msgstr "você pode desabilitar essa opção para habilitar galeria jetpack"
+
+#: /cfg/customize.php:761
+msgid "Display top meta"
+msgstr "Exibir meta topo"
+
+#: /cfg/customize.php:762
+msgid "enable / disable top meta from single posts ( all posts )."
+msgstr "ativar / desativar meta superior de postos individuais (todos os lugares)."
+
+#: /cfg/customize.php:776
+msgid "Display bottom meta"
+msgstr "Exibir meta bottom"
+
+#: /cfg/customize.php:777
+msgid "enable / disable bottom meta from single posts ( all posts )."
+msgstr "ativar / desativar meta fundo de mensagens individuais (todos os lugares)."
+
+#: /cfg/customize.php:791
+msgid "HTML Suggestions"
+msgstr "Sugestões de HTML"
+
+#: /cfg/customize.php:792
+msgid "enable / disable HTML Suggestions after comments form ( all posts )."
+msgstr "ativar / desativar Sugestões de HTML depois de formulário comentários (posts)."
+
+#: /cfg/customize.php:803 /cfg/customize.php:836 /cfg/customize.php:883
+#: /cfg/customize.php:931 /cfg/customize.php:979 /cfg/customize.php:1042
+msgid "Layout"
+msgstr "traçado"
+
+#: /cfg/customize.php:811 /lib/mythemes.setup.class.php:10
+msgid "Main Sidebar"
+msgstr "barra lateral principal"
+
+#: /cfg/customize.php:812 /lib/mythemes.setup.class.php:20
+msgid "Front Page Sidebar"
+msgstr "Front Page Sidebar"
+
+#: /cfg/customize.php:813 /lib/mythemes.setup.class.php:40
+msgid "Page Sidebar"
+msgstr "página Sidebar"
+
+#: /cfg/customize.php:814 /lib/mythemes.setup.class.php:30
+msgid "Post Sidebar"
+msgstr "pós Sidebar"
+
+#: /cfg/customize.php:815 /lib/mythemes.setup.class.php:50
+msgid "Special Page Sidebar"
+msgstr "Sidebar Página Especial"
+
+#: /cfg/customize.php:823
+msgid ""
+"Default Layout is used for the next templates: Blog, Archives, Categories, Tags, "
+"Author and Search Results."
+msgstr "Layout padrão é usado para os próximos modelos: Blog, Arquivos, Categorias, Tags, Autor e resultados de pesquisa."
+
+#: /cfg/customize.php:841 /cfg/customize.php:888 /cfg/customize.php:936
+#: /cfg/customize.php:984 /cfg/customize.php:1047
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: /cfg/customize.php:842 /cfg/customize.php:889 /cfg/customize.php:937
+#: /cfg/customize.php:985 /cfg/customize.php:1048
+msgid "Full Width"
+msgstr "Largura completa"
+
+#: /cfg/customize.php:843 /cfg/customize.php:890 /cfg/customize.php:938
+#: /cfg/customize.php:986 /cfg/customize.php:1049
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: /cfg/customize.php:855 /cfg/customize.php:902 /cfg/customize.php:950
+#: /cfg/customize.php:998 /cfg/customize.php:1061
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: /cfg/customize.php:869
+msgid "Front Page"
+msgstr "Primeira página"
+
+#: /cfg/customize.php:870
+msgid ""
+"In order to use this option set you need to activate a staic page on Front Page "
+"from - \"Static Front Page\" tab"
+msgstr "Para utilizar esta opção definida que você precisa para ativar uma página staic sobre Front Page de - \ tab "Static Front Page \""
+
+#: /cfg/customize.php:916
+msgid "Single Page"
+msgstr "Página Única"
+
+#: /cfg/customize.php:964
+msgid "Single Post"
+msgstr "única"
+
+#: /cfg/customize.php:1012
+msgid "Special Page"
+msgstr "Página especial"
+
+#: /cfg/customize.php:1027
+msgid "Special page"
+msgstr "página especial"
+
+#: /cfg/customize.php:1028
+msgid ""
+"for selected page you can overwrite default page layout settings with special "
+"layout settings"
+msgstr "para página selecionada, você pode substituir as configurações de layout de página padrão com configurações especiais de layout"
+
+#: /cfg/customize.php:1076
+msgid "Social"
+msgstr "Social"
+
+#: /cfg/customize.php:1089
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: /cfg/customize.php:1103
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /cfg/customize.php:1118
+msgid "Skype"
+msgstr "Skype"
+
+#: /cfg/customize.php:1132
+msgid "Renren"
+msgstr "Renren"
+
+#: /cfg/customize.php:1146
+msgid "Github"
+msgstr "github"
+
+#: /cfg/customize.php:1160
+msgid "Rdio"
+msgstr "Rdio"
+
+#: /cfg/customize.php:1174
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: /cfg/customize.php:1188
+msgid "Behance"
+msgstr "Behance"
+
+#: /cfg/customize.php:1202
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: /cfg/customize.php:1216
+msgid "Flickr"
+msgstr "Flickr"
+
+#: /cfg/customize.php:1230
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: /cfg/customize.php:1244
+msgid "Instagram"
+msgstr "Instagram"
+
+#: /cfg/customize.php:1258
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: /cfg/customize.php:1272
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /cfg/customize.php:1286
+msgid "Evernote"
+msgstr "Evernote"
+
+#: /cfg/customize.php:1300
+msgid "Flattr"
+msgstr "Flattr"
+
+#: /cfg/customize.php:1314
+msgid "Picasa"
+msgstr "Picasa"
+
+#: /cfg/customize.php:1328
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: /cfg/customize.php:1342
+msgid "Mixi"
+msgstr "Mixi"
+
+#: /cfg/customize.php:1356
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: /cfg/customize.php:1370
+msgid "Lastfm"
+msgstr "Last FM"
+
+#: /cfg/customize.php:1384
+msgid "GPlus"
+msgstr "GPlus"
+
+#: /cfg/customize.php:1398
+msgid "Google circles"
+msgstr "círculos do Google"
+
+#: /cfg/customize.php:1412
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: /cfg/customize.php:1426
+msgid "Smashing"
+msgstr "Smashing"
+
+#: /cfg/customize.php:1440
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: /cfg/customize.php:1454
+msgid "Rss"
+msgstr "Rss"
+
+#: /cfg/customize.php:1463
+msgid "Others"
+msgstr "Outras"
+
+#: /cfg/customize.php:1477
+msgid "Custom css"
+msgstr "CSS customizado"
+
+#: /cfg/customize.php:1485
+#, php-format
+msgid "Copyright &copy; 2015. Powered by %s."
+msgstr "Copyright & copy; 2015. Alimentado por %s ."
+
+#: /cfg/customize.php:1491
+msgid "Content Copyright"
+msgstr "Copyright de conteúdo"
+
+#: /cfg/pages/materialize-faq.php:11
+msgid "Materialize FAQ"
+msgstr "materializar FAQ"
+
+#: /cfg/widgets/mythemes.post_categories.class.php:8
+msgid "Post Categories"
+msgstr "post Categorias"
+
+#: /cfg/widgets/mythemes.post_categories.class.php:10 /cfg/widgets/mythemes.
+#: post_meta.class.php:10 /cfg/widgets/mythemes.post_tags.class.php:10
+msgid "Use only for single post template"
+msgstr "Use apenas para o modelo único post"
+
+#: /cfg/widgets/mythemes.post_categories.class.php:59 /cfg/widgets/mythemes.
+#: post_meta.class.php:98 /cfg/widgets/mythemes.post_tags.class.php:77
+msgid "Title"
+msgstr "Título"
+
+#: /cfg/widgets/mythemes.post_meta.class.php:8
+msgid "Post Meta"
+msgstr "pós Meta"
+
+#: /cfg/widgets/mythemes.post_tags.class.php:8
+msgid "Post Tags"
+msgstr "Post Tags"
+
+#: /lib/mythemes.breadcrumbs.class.php:38
+#, php-format
+msgid "See articles from category - %s"
+msgstr "Veja os artigos da categoria - %s"
+
+#: /lib/mythemes.breadcrumbs.class.php:65
+#, php-format
+msgid "One Article"
+msgid_plural "%s Articles"
+msgstr[0] "um artigo"
+msgstr[1] "um artigo"
+
+#: /lib/mythemes.comments.class.php:26
+msgid "Reply"
+msgstr "Resposta"
+
+#: /lib/mythemes.comments.class.php:42
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário aguarda moderação."
+
+#: /lib/mythemes.gallery.class.php:134
+msgid "None"
+msgstr "Nenhum"
+
+#: /lib/mythemes.gallery.class.php:135
+msgid "Effect Bubba"
+msgstr "efeito Bubba"
+
+#: /lib/mythemes.setup.class.php:11
+msgid ""
+"Main Sidebar - is used by default for next templates: Blog, Archives, Author, "
+"Categories, Tags and Search Results."
+msgstr "Sidebar principal - é usado por padrão para os próximos modelos: Blog, Arquivos, autor, Categorias, Tags e Resultados da Pesquisa."
+
+#: /lib/mythemes.setup.class.php:21
+msgid "Front Page Sidebar - is used by default for Front Page template."
+msgstr "Front Page Sidebar - é usado por padrão para o modelo de Front Page."
+
+#: /lib/mythemes.setup.class.php:31
+msgid "Post Sidebar - is used by default for single post template."
+msgstr "Pós Sidebar - é usado por padrão para o modelo único post."
+
+#: /lib/mythemes.setup.class.php:41
+msgid "Page Sidebar - is used by default for page template."
+msgstr "Página Sidebar - é usado por padrão para modelo de página."
+
+#: /lib/mythemes.setup.class.php:51
+msgid "Special Page Sidebar - by default is used for Special Page Layout."
+msgstr "Sidebar Página Especial - por padrão é usado para o layout de página especiais."
+
+#: /lib/mythemes.setup.class.php:61
+msgid "Header - First Front Page Sidebar"
+msgstr "Cabeçalho - Primeiro Front Page Sidebar"
+
+#: /lib/mythemes.setup.class.php:62
+msgid "Content for left front page header Sidebar"
+msgstr "Conteúdo para a esquerda página cabeçalho da barra lateral"
+
+#: /lib/mythemes.setup.class.php:71
+msgid "Header - Second Front Page Sidebar"
+msgstr "Cabeçalho - Second Front Page Sidebar"
+
+#: /lib/mythemes.setup.class.php:72
+msgid "Content for middle front page header Sidebar"
+msgstr "Conteúdo para o meio Sidebar cabeçalho da página de frente"
+
+#: /lib/mythemes.setup.class.php:81
+msgid "Header - Third Front Page Sidebar"
+msgstr "Cabeçalho - Terceiro Front Page Sidebar"
+
+#: /lib/mythemes.setup.class.php:82
+msgid "Content for right front page header Sidebar"
+msgstr "Conteúdo para frente Sidebar cabeçalho da página direita"
+
+#: /lib/mythemes.setup.class.php:92
+msgid "Footer - First Sidebar"
+msgstr "Rodapé - Primeira Sidebar"
+
+#: /lib/mythemes.setup.class.php:93
+msgid "Content for first footer Sidebar"
+msgstr "Conteúdo para o primeiro Sidebar rodapé"
+
+#: /lib/mythemes.setup.class.php:102
+msgid "Footer - Second Sidebar"
+msgstr "Rodapé - Segunda Sidebar"
+
+#: /lib/mythemes.setup.class.php:103
+msgid "Content for second footer Sidebar"
+msgstr "Conteúdo para segunda Sidebar rodapé"
+
+#: /lib/mythemes.setup.class.php:112
+msgid "Footer - Third Sidebar"
+msgstr "Rodapé - Terceiro Sidebar"
+
+#: /lib/mythemes.setup.class.php:113
+msgid "Content for third footer Sidebar"
+msgstr "Conteúdo para o terceiro Sidebar rodapé"
+
+#: /lib/mythemes.setup.class.php:122
+msgid "Footer - Fourth Sidebar"
+msgstr "Rodapé - Quarta Sidebar"
+
+#: /lib/mythemes.setup.class.php:123
+msgid "Content for fourth footer Sidebar"
+msgstr "Conteúdo para quarta Sidebar rodapé"
+
+#: /lib/mythemes.setup.class.php:134
+msgid "Header menu"
+msgstr "menu de cabeçalho"
+
+#: /lib/mythemes.tools.class.php:82
+msgid " - Select from list - "
+msgstr " - Escolha da lista - "
+
+#: /templates/header.php:12
+msgid "Best WordPress Theme based on Material Design"
+msgstr "Melhor Tema WordPress baseado no desenho de materiais"
+
+#: /templates/header.php:13
+msgid "Materialize is a freemium WordPress theme developed by myThem.es"
+msgstr "Materializar é um tema WordPress freemium desenvolvido pela myThem.es"
+
+#: /templates/loop.php:43
+msgid "Not found results"
+msgstr "resultados não foram encontrados"
+
+#: /templates/loop.php:44
+msgid ""
+"Infelizmente esta pagina, post ou recurso não existe ou não foi encontrado :( "
+"Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr "Pedimos desculpas mas esta página, pós ou recurso não existe ou não pode ser encontrada. Talvez seja necessário alterar o método de chamada para esta página, pós ou recurso."
+
+#: /templates/meta/top.php:23
+#, php-format
+msgid "on %s"
+msgstr "em %s"
+
+#: /templates/meta/top.php:33
+#, php-format
+msgid "por %s"
+msgstr "por %s"
+
+#: /templates/meta/top.php:42
+#, php-format
+msgctxt "Number of comment(s) from post meta"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comentário"
+msgstr[1] "%s Comentário"
+
+#: /templates/views/classic.php:63
+msgid "Read more about .."
+msgstr "Leia mais sobre .."
+
+#: /templates/views/classic.php:86
+msgid "Read More"
+msgstr "Leia mais"
+
+#. Theme URI of the theme
+msgid "http://mythem.es/item/materialize-free-wordpress-theme/"
+msgstr "http://mythem.es/item/materialize-free-wordpress-theme/"
+
+#. Description of the theme
+msgid ""
+"Materialize is an white, clean, elegant, modern, creative and beautiful freemium "
+"WordPress theme built with HTML5 and CSS3. The clean, white, elegant, modern and "
+"creative design can be used for any type of website: business, corporate, "
+"portfolio, products, creative, arts, design, construction, transport, "
+"manufacturing, ecology, cosmetics, beauty, hygiene, sports, culture, "
+"presentations, food business, restaurants, drink, bar, pub, club, radio, tv, "
+"television, music, movies, live style, garden, cuisine, chemical, pharmaceutical, "
+"medicine, travel, sample blog, agriculture, science, politics and more others. "
+"The theme is builded base on white, clean and responsive Material Design Concept. "
+"This theme is suitable for all type of devices: desktop, notebook, tablete, "
+"iPhone and others. Responsive design and Materialia Design Concept are based on "
+"Materialize framework. Theme is developed by myThem.es. We carefully handcrafted "
+"this theme with a strong focus on typography, usability and overall user-"
+"experience. It’s very quick to setup and easy to customize. It also comes with "
+"free support. Please read the FAQ: Admin Dashboard &gt; Appearances &gt; "
+"Materialize FAQ."
+msgstr "Materializar é um tema WordPress freemium branco, limpo, elegante, moderno, criativo e bonito construído com HTML5 e CSS3. O design limpo, branco, elegante, moderno e criativo pode ser usado para qualquer tipo de site: negócio, incorporado, carteiras, produtos, criativo, artes, design, construção, transporte, fabricação, ecologia, cosméticos, beleza, higiene, esportes, cultura, apresentações, negócio da comida, restaurantes, bebida, bar, pub, clube, rádio, tv, televisão, música, filmes, estilo vivo, jardim, cozinha, química, farmacêutica, medicina, curso, blogue amostra, agricultura, ciência, política e mais outros. O tema é edificada na base de branco, limpo e responsivo materiais Design Concept. Este tema é adequado para todos os tipos de dispositivos: desktop, notebook, tablete, iPhone e outros. design responsivo e Materialia Design Concept são baseados em quadro se materializar. Tema é desenvolvido por myThem.es. Nós cuidadosamente artesanais este tema com um forte foco em tipografia, usabilidade e experiência do usuário em geral. É muito simples de configurar e fácil de personalizar. Ele também vem com suporte gratuito. Por favor, leia o FAQ: Admin Dashboard & gt; Aparência & gt; Materializar FAQ."
+
+#. Author of the theme
+msgid "myThem.es"
+msgstr "myThem.es"
+
+#. Author URI of the theme
+msgid "http://mythem.es/"
+msgstr "http://mythem.es/"
+
